@@ -1,0 +1,15 @@
+setup.py
+book_manager/__init__.py
+book_manager.egg-info/PKG-INFO
+book_manager.egg-info/SOURCES.txt
+book_manager.egg-info/dependency_links.txt
+book_manager.egg-info/top_level.txt
+book_manager/protos/__init__.py
+book_manager/protos/book/__init__.py
+book_manager/protos/book/manager_pb2.py
+book_manager/protos/book/manager_pb2_grpc.py
+book_manager/protos/book/social_pb2.py
+book_manager/protos/book/social_pb2_grpc.py
+book_manager/protos/user/__init__.py
+book_manager/protos/user/user_pb2.py
+book_manager/protos/user/user_pb2_grpc.py
